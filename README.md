@@ -1,7 +1,7 @@
 
 # Trends of Demographic Aging and Labor Market in Japan Using Python
 
-**Falling Birth Rates in East Asia**
+**Falling Fertility Rates in East Asia**
 
 East Asia is undergoing a significant demographic shift characterized by declining birth rates and an aging population. In 2023, South Korea and China recorded total fertility rates (TFR) lower than Japan’s. The TFR, which is the average number of children born per woman for all three countries remains below the population replacement level of 2.06, with South Korea at approximately 0.72, China at 0.999, and Japan at 1.208. This persistent decline in fertility suggests that population aging will continue to accelerate. A fertility rate below the replacement level indicates that, over time, each successive generation will be smaller than the previous one, posing demographic and economic challenges.
 
