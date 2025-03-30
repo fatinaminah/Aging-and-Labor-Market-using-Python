@@ -1,9 +1,9 @@
 
 # Trends of Demographic Aging and Labor Market in Japan Using Python
 
-**Falling Fertility Rates in East Asia**
+**Falling fertility rates in East Asia**
 
-East Asia is undergoing a significant demographic shift characterized by declining birth rates and an aging population. In 2023, South Korea and China recorded total fertility rates (TFR) lower than Japan’s. The TFR, which is the average number of children born per woman for all three countries remains below the population replacement level of 2.06, with South Korea at approximately 0.72, China at 0.999, and Japan at 1.208. This persistent decline in fertility suggests that population aging will continue to accelerate. A fertility rate below the replacement level indicates that, over time, each successive generation will be smaller than the previous one, posing demographic and economic challenges.
+East Asia is undergoing a significant demographic shift marked by declining birth rates and an aging population. In 2023, both South Korea and China reported total fertility rates (TFR) lower than Japan’s. The TFR, which represents the average number of children born per woman in these countries, remains below the population replacement level of 2.06, with South Korea at around 0.72, China at 0.999, and Japan at 1.208. This ongoing decline in fertility rates points to a continued acceleration of population aging. A fertility rate below the replacement level means that, over time, each new generation will be smaller than the last, leading to demographic and economic challenges.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*Vuj2-Ge8gfOnzyHz56XqSg.png)
 
@@ -72,9 +72,9 @@ East Asia is undergoing a significant demographic shift characterized by declini
     fig.show()
 
 
-**The Impact of Low Fertility Rates on Aging Populations**
+**Impact of low fertility rates on ageing populations**
 
-A lower fertility rate accelerates population aging, resulting in a higher proportion of elderly individuals. As birth rates continue to decline, the demographic shift toward an aging society becomes more pronounced. This trend is particularly evident in high-income economies, where aging has become a defining characteristic. In 2023, Japan had nearly 30% of its population aged 65 and older, while South Korea and China had elderly population shares of approximately 18% and 14%, respectively.
+A lower fertility rate accelerates the aging of the population, increasing the proportion of elderly individuals. As birth rates continue to fall, the shift toward an older society becomes more noticeable. This trend is particularly prominent in high-income nations, where aging has become a defining characteristic. In 2023, Japan had nearly 30% of its population aged 65 and older, while South Korea and China had elderly population shares of approximately 18% and 14%, respectively.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*GTtVMMb0bgI4giATswTFSQ.png)
 
@@ -144,13 +144,14 @@ A lower fertility rate accelerates population aging, resulting in a higher propo
 
  **Total dependency population per working-age population rises**
 
+
 The decline in fertility rates and an aging population are driving a rise in Japan’s dependency ratio, which measures the proportion of dependents, those younger than 15 or older than 64, relative to the working-age population (15–64 years). A higher dependency ratio places an increasing burden on the workforce, as fewer individuals are available to support dependents. As the working-age population shrinks, labor force participation declines, impacting economic productivity.
 
 Demographic dependency is categorized into:  
 • Young dependency ratio: the number of individuals aged 0–14 relative to the working-age population.  
 • Old dependency ratio: the number of individuals aged 65 and older relative to the working-age population.
 
-The total dependency ratio is the sum of both. In Japan, the child dependency ratio has steadily declined, while the aged dependency ratio has been increasing since the mid-1990s. This continuous rise in total dependency is expected to place increasing financial and social pressures on Japan’s working population.
+The total dependency ratio is the sum of both. In Japan, the child dependency ratio has consistently decreased, while the aged dependency ratio has been on the rise since the mid-1990s. This ongoing increase in the overall dependency ratio is anticipated to impose growing financial and social burdens on Japan’s working population.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*GbY208OY4avEHl50X0mdEw.png)
 
@@ -194,13 +195,14 @@ The total dependency ratio is the sum of both. In Japan, the child dependency ra
     fig.show()
 
 
-**What Do Demographic Changes Mean for Labor Supply?**
+**The impacts of demographic changes on labor supply**
 
-Demographic shifts significantly impact a nation’s labor force. As a population ages, birth rates fluctuate, and migration patterns change, the labor supply also transforms, influencing economic growth.
 
-In Japan, the female labor force participation rate has consistently increased over time. In 2023, it reached 54.85%, up from 54.2% in 2022. That same year, Japan’s nominal GDP per capita was approximately $49,885.20. Research indicates that higher female labor force participation positively influences economic growth, with studies showing that increasing women’s workforce participation can significantly boost GDP.
+Demographic changes have a profound effect on a nation’s labor force. As populations age, birth rates fluctuate, and migration patterns evolve, the labor supply undergoes significant transformations, which in turn affect economic growth.
 
-Although a direct correlation between female labor force participation and GDP per capita in Japan requires further analysis, the rising trend of female workforce participation aligns with global patterns where higher female employment contributes to broader economic development.
+In Japan, female labor force participation has steadily risen over the years. By 2023, the participation rate reached 54.85%, an increase from 54.2% in 2022. During the same period, Japan’s nominal GDP per capita was around $49,885.20. Studies suggest that higher female labor force participation can have a positive impact on economic growth, with evidence showing that increasing the number of women in the workforce can lead to substantial GDP gains.
+
+While a direct link between female labor force participation and GDP per capita in Japan requires further research, the growing trend of female employment mirrors global patterns where higher female participation in the workforce fosters broader economic development.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*bhJCaZdoEXEqA79MWiCt6A.png)
 
