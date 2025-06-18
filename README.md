@@ -3,7 +3,7 @@
 
 **Falling fertility rates in East Asia**
 
-There is a considerable change in the demographics of East Asia as a result of reduced birth rates and an increasing older population. In 2023, both South Korea and China had TFRs below that of Japan. The average number of children born per woman in those countries has not reached the population replacement level of less than 2.06. South Korea’s is around 0.72; Europe’s is at 0.999, while Japan’s is at 1.208. This continuing decline in fertility indicates an increasing acceleration in the aging of the population. A fertility rate below that of replacement means that with time, every next generation will have fewer people as compared to the previous one.
+There is a considerable change in the demographics of East Asia as a result of reduced birth rates and an increasing older population. In 2023, both South Korea and China had TFRs below that of Japan. The average number of children born per woman in those countries has not reached the population replacement level of less than 2.06. South Korea’s was around 0.72; Europe’s was at 0.999, while Japan’s was at 1.208. This continuing decline in fertility indicates an increasing acceleration in the aging of the population. A fertility rate below that of replacement means that with time, every next generation will have fewer people as compared to the previous one.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*Vuj2-Ge8gfOnzyHz56XqSg.png)
 
